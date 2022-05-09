@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @viniciusbispoo
+- 👀 I’m interested in mobile and desktop development
+- 🌱 I’m currently learning kotlin based apps
+- 💞️ I’m looking to collaborate on android community development
+- 📫 How to reach me: via Instagram @vinicius.bispoo or Email marcusbispo@outlook.com.br
